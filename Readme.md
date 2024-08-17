@@ -1,6 +1,12 @@
 # ChainSeats Application
 
-ChainSeats is a decentralized application built on the Linera microchain for the Linera Spring Hackathon - 2024. It allows users to manage events seamlessly. This application includes functionalities for creating, subscribing, unsubscribing, and deleting events.
+ChainSeats is a decentralized event management application built on Linera's innovative microchain technology. The app enables users to seamlessly create, manage, and participate in events. It includes key functionalities such as creating, subscribing, unsubscribing, and deleting events.
+
+By leveraging Linera's microchains, ChainSeats provides a secure and real-time user experience. Users can store assets and application data on their own chains, ensuring fast finality and reliable data replication. Additionally, the platform supports cross-chain messaging, multi-user chains, and local composability, offering a powerful and flexible programming model for developers.
+
+ChainSeats brings decentralized principles together with cutting-edge blockchain technology to offer a dynamic, user-centric solution for managing events.
+
+![Screenshot (807)](https://github.com/user-attachments/assets/7e879571-a3f3-4db2-8e1a-80a97d2c08ba)
 
 ## Features
 
