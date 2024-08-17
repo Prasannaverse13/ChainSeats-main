@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-gray-900 text-white;
+}
+
+input,
+textarea,
+button {
+  @apply bg-gray-800 text-white p-2 rounded-md;
+}
+
+button {
+  @apply hover:bg-gray-700 transition-colors;
+}
